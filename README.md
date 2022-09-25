@@ -1,4 +1,4 @@
 # VHPP
-MI primer repositorio.
+Repositorio de colaboración.
 
 Hola, soy Víctor Hugo Pérez Pérez
